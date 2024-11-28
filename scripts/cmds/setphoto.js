@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "gpp",
-    author: "keithkeizzah",
+    author: "popkid",
     description: "Set a custom photo for the group",
     category: "admin",
     usage: "/setphoto [photo]",
