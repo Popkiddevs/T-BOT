@@ -1,7 +1,7 @@
 module.exports = {
     config: {
         name: "shell",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Access the shell (admin only)",
         category: "utility",
         usage: "shell <command>",
