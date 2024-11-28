@@ -3,7 +3,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: "calc",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Send a link of the replied file",
         category: "Maths",
         usage: ".ccgen bin_numbet",
@@ -21,7 +21,7 @@ module.exports = {
             const response = await axios.get(apiUrl);
             const giftech = response.data.result;
 
-            bot.sendMessage(chatId, `𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 \n\nHere is the answer:\n${giftech}`);
+            bot.sendMessage(chatId, `POPKID-MD \n\nHere is the answer:\n${giftech}`);
         } catch (error) {
             console.error('[ERROR]', error);
             bot.sendMessage(chatId, "An error occurred while processing the command.");
