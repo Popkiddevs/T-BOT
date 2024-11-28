@@ -6,7 +6,7 @@ module.exports = {
     name: "menu",
     description: "Show available commands",
     usage: ".menu [command_name]",
-    author: "keithkeizzah",
+    author: "popkid",
     category: "utility",
     role: 0x0,
     cooldown: 0x0,
@@ -63,13 +63,13 @@ module.exports = {
         }
       } else {
         // If no specific command is requested, show the list of all categories and commands
-        let menuMessage = `╭══ **〘〘 𝗞𝗘𝗜𝗧𝗛-𝗧-𝗕𝗢𝗧 〙〙** ═⊷\n` +
+        let menuMessage = `╭══ **〘〘 𝗣𝗢𝗣𝗞𝗜𝗗-𝗧-𝗕𝗢𝗧 〙〙** ═⊷\n` +
                           `┃❍ ᴜsᴇʀ: •••\n` +
-                          `┃❍ **ᴏᴡɴᴇʀ:** keithkeizzah\n` +
+                          `┃❍ **ᴏᴡɴᴇʀ:** popkid\n` +
                           `┃❍ **ᴄᴏᴍᴍᴀɴᴅs:** 158\n` +
                           `┃❍ **ᴠᴇʀsɪᴏɴ:** 1.0.0\n` +
                           `╰════════════════⊷\n\n` +
-                          `**𝙆𝙚𝙞𝙩𝙝-𝙏-𝘽𝙤𝙩 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨:**\n\n`;
+                          `**𝙋𝙤𝙥𝙠𝙞𝙙-𝙏-𝘽𝙤𝙩 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨:**\n\n`;
 
         // List all command categories and commands
         for (const category in categoryCommands) {
