@@ -3,7 +3,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 module.exports = {
     config: {
         name: "screenshot",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Take a screenshot of a webpage or Google search results",
         category: "tools",
         usage: "/screenshot <url>\n or\n/screenshot -g <text>",
