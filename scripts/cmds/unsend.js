@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "delete",
-    author: "keithkeizzah",
+    author: "popkid",
     description: "Deletes a message that the bot posted in reply to.",
     category: "Utility",
     usage: "/unsend (reply to the message you want to delete)",
