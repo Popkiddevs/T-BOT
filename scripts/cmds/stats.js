@@ -6,7 +6,7 @@ const path = require('path');
 module.exports = {
     config: {
         name: "uptime",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Display bot statistics",
         category: "utility",
         usage: "stats",
