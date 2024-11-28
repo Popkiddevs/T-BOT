@@ -4,7 +4,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 module.exports = {
     config: {
         name: "tiktok",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Search TikTok videos",
         category: "video",
         usage: "tiksr <query>",
