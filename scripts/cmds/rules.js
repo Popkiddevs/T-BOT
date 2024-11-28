@@ -3,7 +3,7 @@ let rules = [];
 module.exports = {
     config: {
         name: "rules",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Manage group rules",
         category: "group",
         usage: "add <rule>, modify <index> | <new rule>, delete <index>",
