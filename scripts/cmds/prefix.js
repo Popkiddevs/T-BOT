@@ -3,7 +3,7 @@ const config = require('../../config.json');
 module.exports = {
     config: {
         name: "prefix",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "bot prefix",
         category: "utility",
         usage: "prefix",
