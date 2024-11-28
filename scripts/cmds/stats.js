@@ -27,7 +27,7 @@ module.exports = {
             const jsFileCount = countJSFiles();
 
             const statsMessage = `
-            📊 Keith T-Bot Statistics 📊
+            📊 Popkid T-Bot Statistics 📊
 
             🕒 Uptime: ${uptimeString}
             💾 Memory Usage: ${memoryUsageMB} MB           
