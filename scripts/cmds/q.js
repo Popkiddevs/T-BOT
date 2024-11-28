@@ -6,7 +6,7 @@ const path = require('path');
 module.exports = {
     config: {
         name: "q",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "create fake telegram message ",
         category: "utility",
         usage: "q [prompt]",
