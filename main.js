@@ -271,11 +271,11 @@ const logger = createGradientLogger();
 `;
 
     logger(botName);
-    logger('[ Made by keithkeizzah ]');
+    logger('[ Made by popkid ]');
 
 
 
-const REPO_OWNER = 'keithkeizzah';
+const REPO_OWNER = 'popkid';
 const REPO_NAME = 'T-BOT';
 
 const VERSION_FILE = path.join(__dirname, 'version.txt');
