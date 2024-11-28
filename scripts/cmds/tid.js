@@ -1,7 +1,7 @@
 module.exports = {
     config: {
         name: "info",
-        author: "keithkeizzah",
+        author: "popkid",
         description: "Get information about the group",
         category: "info",
         usage: "groupinfo",
